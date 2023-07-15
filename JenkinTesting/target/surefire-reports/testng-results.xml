@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="2" passed="2" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2023-07-15T08:52:59 IST" name="Suite" finished-at="2023-07-15T08:53:39 IST" duration-ms="40468">
+    <groups>
+    </groups>
+    <test started-at="2023-07-15T08:52:59 IST" name="Test" finished-at="2023-07-15T08:53:39 IST" duration-ms="40468">
+      <class name="FirstTest.Spicejet">
+        <test-method signature="spiceJetOneWaytrip()[pri:0, instance:FirstTest.Spicejet@2cdd0d4b]" started-at="2023-07-15T08:53:20 IST" name="spiceJetOneWaytrip" finished-at="2023-07-15T08:53:39 IST" duration-ms="19791" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- spiceJetOneWaytrip -->
+      </class> <!-- FirstTest.Spicejet -->
+      <class name="FirstTest.LaunchBrowser">
+        <test-method signature="launchBrowser()[pri:0, instance:FirstTest.LaunchBrowser@f381794]" started-at="2023-07-15T08:52:59 IST" name="launchBrowser" finished-at="2023-07-15T08:53:20 IST" duration-ms="20629" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- launchBrowser -->
+      </class> <!-- FirstTest.LaunchBrowser -->
+    </test> <!-- Test -->
+  </suite> <!-- Suite -->
+</testng-results>
